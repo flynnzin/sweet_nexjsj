@@ -4,7 +4,7 @@ import * as cookie from 'cookie';
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
     if (req.method === 'POST') {
         const { password } = req.body;
-        const correctPassword = 'password';
+        const correctPassword = '15few1fe5w15few1few51';
 
         if (password === correctPassword) {
             res.setHeader(
