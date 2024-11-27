@@ -8,8 +8,8 @@ const person = {
     },
     role:      'Design Engineer',
     avatar:    '/images/avatar.jpg',
-    location:  'Brasil/Sao paulo',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-    languages: ['English', 'Bahasa']  // optional: Leave the array empty if you don't want to display languages
+    location:  'America/Sao_Paulo',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+    languages: ['English']  // optional: Leave the array empty if you don't want to display languages
 }
 
 const newsletter = {
