@@ -175,27 +175,27 @@ const gallery = {
     // Images from https://pexels.com
     images: [
         { 
-            src: 'http://18.228.15.123:3110/Arquivos/Publica/designers_sweet/gifsweet.gif', 
+            src: '/images/gallery/01.png', 
             alt: 'image',
             orientation: 'vertical'
         },
         { 
-            src: '/images/gallery/img-02.jpg', 
+            src: '/images/gallery/02.gif', 
             alt: 'image',
             orientation: 'horizontal'
         },
         { 
-            src: '/images/gallery/img-03.jpg', 
+            src: '/images/gallery/03.png', 
             alt: 'image',
             orientation: 'vertical'
         },
         { 
-            src: '/images/gallery/img-04.jpg', 
+            src: '/images/gallery/04.png', 
             alt: 'image',
             orientation: 'horizontal'
         },
         { 
-            src: '/images/gallery/img-05.jpg', 
+            src: '/images/gallery/05.png', 
             alt: 'image',
             orientation: 'horizontal'
         },
