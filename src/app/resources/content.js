@@ -153,7 +153,7 @@ const about = {
 }
 
 const blog = {
-    label: 'Blog',
+    label: 'Atualizações',
     title: 'Writing about design and tech...',
     description: `Read what ${person.name} has been up to recently`
     // Create new blog posts by adding a new .mdx file to app/blog/posts
@@ -161,7 +161,7 @@ const blog = {
 }
 
 const work = {
-    label: 'Work',
+    label: 'Trabalhos',
     title: 'My projects',
     description: `Design and dev projects by ${person.name}`
     // Create new project pages by adding a new .mdx file to app/blog/posts
