@@ -177,12 +177,12 @@ const gallery = {
         { 
             src: '/images/gallery/01.png', 
             alt: 'image',
-            orientation: 'vertical'
+            orientation: 'horizontal'
         },
         { 
             src: '/images/gallery/02.gif', 
             alt: 'image',
-            orientation: 'horizontal'
+            orientation: 'vertical'
         },
         { 
             src: '/images/gallery/03.png', 
@@ -195,7 +195,7 @@ const gallery = {
             orientation: 'horizontal'
         },
         { 
-            src: '/images/gallery/05.png', 
+            src: '/images/gallery/5.gif', 
             alt: 'image',
             orientation: 'horizontal'
         },
