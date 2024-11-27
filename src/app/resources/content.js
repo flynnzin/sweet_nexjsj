@@ -42,8 +42,8 @@ const home = {
     label: 'Inicio',
     title: `Sweet Roleplay`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
-    headline: <>🌟 Bem-vindo ao Sweet Roleplay! 🍭</>,
-    subline: <>Um servidor único, com um sabor doce que vai conquistar seu coração! 💖🍬.</>
+    headline: <>Bem-vindo ao Sweet Roleplay</>,
+    subline: <> <b>Sweet Roleplay</b> 🍭 Um servidor único, com um sabor doce que vai conquistar seu coração! 💖🍬.</>
     // subline: <>I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
 }
 
