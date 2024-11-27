@@ -40,7 +40,7 @@ const social = [
 
 const home = {
     label: 'Inicio',
-    title: `${person.name}'s Portfolio`,
+    title: `Sweet Roleplay`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Sweet Roleplay</>,
     subline: <>Seja bem vindo ao projeto Sweet Roleplay um servidor unico e com um sabor bem doce.</>
@@ -101,7 +101,7 @@ const about = {
         ]
     },
     studies: {
-        display: true, // set to false to hide this section
+        display: false, // set to false to hide this section
         title: 'Studies',
         institutions: [
             {
@@ -115,7 +115,7 @@ const about = {
         ]
     },
     technical: {
-        display: true, // set to false to hide this section
+        display: false, // set to false to hide this section
         title: 'Technical skills',
         skills: [
             {
