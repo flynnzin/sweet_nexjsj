@@ -1,12 +1,12 @@
 // import { InlineCode } from "@/once-ui/components";
 
 const person = {
-    firstName: 'Selene',
-    lastName:  'Yu',
+    firstName: 'Cristopher',
+    lastName:  'Leonardo',
     get name() {
         return `${this.firstName} ${this.lastName}`;
     },
-    role:      'Design Engineer',
+    role:      'UX Student',
     avatar:    '/images/avatar.jpg',
     location:  'America/Sao_Paulo',        // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
     languages: ['English']  // optional: Leave the array empty if you don't want to display languages
@@ -22,24 +22,19 @@ const social = [
     // Links are automatically displayed.
     // Import new icons in /once-ui/icons.ts
     {
-        name: 'GitHub',
-        icon: 'github',
-        link: 'https://github.com/once-ui-system/nextjs-starter',
+        name: 'Discord',
+        icon: 'discord',
+        link: 'https://discord.gg/sweetgg',
     },
     {
-        name: 'LinkedIn',
-        icon: 'linkedin',
+        name: 'TikTok',
+        icon: 'tiktok',
         link: 'https://www.linkedin.com/company/once-ui/',
     },
     {
         name: 'X',
         icon: 'x',
         link: '',
-    },
-    {
-        name: 'Email',
-        icon: 'email',
-        link: 'mailto:example@gmail.com',
     },
 ]
 
@@ -70,7 +65,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>Selene is a Jakarta-based design engineer with a passion for transforming complex challenges into simple, elegant design solutions. Her work spans digital interfaces, interactive experiences, and the convergence of design and technology.</>
+        description: <>Flynnzito é um engenheiro de design baseado em São Paulo, apaixonado por transformar desafios complexos em soluções de design simples e elegantes. Seu trabalho abrange interfaces digitais, experiências interativas e a convergência entre design e tecnologia..</>
     },
     work: {
         display: false, // set to false to hide this section
@@ -87,7 +82,7 @@ const about = {
                 images: [ // optional: leave the array empty if you don't want to display images
                     {
                         src: '/images/projects/project-01/cover-01.jpg',
-                        alt: 'Once UI Project',
+                        alt: 'Sweet Projet',
                         width: 16,
                         height: 9
                     }
