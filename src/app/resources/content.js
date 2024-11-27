@@ -43,16 +43,16 @@ const home = {
     title: `Sweet Roleplay`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Bem-vindo ao Sweet Roleplay</>,
-    subline: <> <b>Sweet Roleplay</b> Um servidor único, com um sabor doce que vai conquistar seu coração! 🍭💖🍬.</>
+    subline: <> <b>Sweet Roleplay</b> Um servidor único, com um sabor doce que vai conquistar seu coração!.</>
     // subline: <>I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
 }
 
 const about = {
     label: 'About',
-    title: 'About me',
+    title: 'Sobre',
     description: `Meet ${person.name}, ${person.role} from ${person.location}`,
     tableOfContent: {
-        display: true,
+        display: false,
         subItems: false
     },
     avatar: {
