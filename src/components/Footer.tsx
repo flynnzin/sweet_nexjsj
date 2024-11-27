@@ -28,7 +28,7 @@ export const Footer = () => {
                     </Text>
                     <Text onBackground="neutral-weak">
                         {/* Usage of this template requires attribution. Please don't remove the link to Once UI. */}
-                        Copyright © 2024 <SmartLink style={{marginLeft: '-0.125rem'}} href="https://discord.gg/sweetgg">Sweet Roleplay</SmartLink>
+                            Copyright © 2024 <SmartLink style={{marginLeft: '-0.125rem'}} href="https://discord.gg/sweetgg">Sweet Roleplay</SmartLink>
                     </Text>
                 </Text>
                 <Flex
