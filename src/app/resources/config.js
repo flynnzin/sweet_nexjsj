@@ -40,7 +40,7 @@ const effects = {
 }
 
 const style = {
-    theme:       'light',         // dark | light
+    theme:       'dark',         // dark | light
     neutral:     'gray',         // sand | gray | slate
     brand:       'pink',      // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
     accent:      'pink',       // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
