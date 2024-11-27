@@ -44,10 +44,10 @@ const social = [
 ]
 
 const home = {
-    label: 'Home',
+    label: 'Inicio',
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
-    headline: <>Design engineer and builder</>,
+    headline: <>Sweet Roleplay</>,
     subline: <>I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
 }
 
@@ -60,10 +60,10 @@ const about = {
         subItems: false
     },
     avatar: {
-        display: true
+        display: false
     },
     calendar: {
-        display: true,
+        display: false,
         link: 'https://cal.com'
     },
     intro: {
@@ -72,7 +72,7 @@ const about = {
         description: <>Selene is a Jakarta-based design engineer with a passion for transforming complex challenges into simple, elegant design solutions. Her work spans digital interfaces, interactive experiences, and the convergence of design and technology.</>
     },
     work: {
-        display: true, // set to false to hide this section
+        display: false, // set to false to hide this section
         title: 'Work Experience',
         experiences: [
             {
