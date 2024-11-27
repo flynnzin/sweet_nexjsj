@@ -43,7 +43,7 @@ const home = {
     title: `Sweet Roleplay`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Sweet Roleplay</>,
-    subline: <>Seja bem vindo ao projeto <InlineCode>Sweet Roleplay</InlineCode> um servidor unico e com um sabor bem doce.</>
+    subline: <>Seja bem vindo ao projeto <b>Sweet Roleplay</b> um servidor unico e com um sabor bem doce.</>
     // subline: <>I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive<br/> user experiences. After hours, I build my own projects.</>
 }
 
