@@ -52,18 +52,18 @@ const about = {
     title: 'Sobre',
     description: `Meet ${person.name}, ${person.role} from ${person.location}`,
     tableOfContent: {
-        display: false,
+        display: true,
         subItems: false
     },
     avatar: {
         display: false
     },
     calendar: {
-        display: false,
+        display: true,
         link: 'https://cal.com'
     },
     intro: {
-        display: true,
+        display: false,
         title: 'Introduction',
         description: <>Flynnzito é um engenheiro de design baseado em São Paulo, apaixonado por transformar desafios complexos em soluções de design simples e elegantes. Seu trabalho abrange interfaces digitais, experiências interativas e a convergência entre design e tecnologia..</>
     },
