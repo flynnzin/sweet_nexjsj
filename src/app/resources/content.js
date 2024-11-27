@@ -1,4 +1,4 @@
-import { InlineCode } from "@/once-ui/components";
+// import { InlineCode } from "@/once-ui/components";
 
 const person = {
     firstName: 'Selene',
@@ -13,7 +13,7 @@ const person = {
 }
 
 const newsletter = {
-    display: false,
+    display: true,
     title: <>Subscribe to {person.firstName}'s Newsletter</>,
     description: <>I occasionally write about design, technology, and share thoughts on the intersection of creativity and engineering.</>
 }
