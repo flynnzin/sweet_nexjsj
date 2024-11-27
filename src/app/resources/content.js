@@ -169,13 +169,13 @@ const work = {
 }
 
 const gallery = {
-    label: 'Gallery',
+    label: 'Imagens',
     title: 'My photo gallery',
     description: `A photo collection by ${person.name}`,
     // Images from https://pexels.com
     images: [
         { 
-            src: '/images/gallery/img-01.jpg', 
+            src: 'http://18.228.15.123:3110/Arquivos/Publica/designers_sweet/gifsweet.gif', 
             alt: 'image',
             orientation: 'vertical'
         },
