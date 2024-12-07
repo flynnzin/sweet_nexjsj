@@ -10,11 +10,11 @@ const i18nOptions = {
 }
 
 const routes = {
-    '/':        false,
+    '/':        true,
     '/about':   false,
-    '/work':    false,
-    '/blog':    false,
-    '/gallery': false,
+    '/work':    true,
+    '/blog':    true,
+    '/gallery': true,
 }
 
 // Enable password protection on selected routes
@@ -41,7 +41,7 @@ const effects = {
 
 const style = {
     theme:       'dark',         // dark | light
-    neutral:     'gray',         // sand | gray | slate
+    neutral:     'slate',         // sand | gray | slate
     brand:       'pink',      // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
     accent:      'pink',       // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
     solid:       'contrast',     // color | contrast
