@@ -179,6 +179,12 @@ const gallery = {
             alt: 'image',
             orientation: 'horizontal'
         },
+        { 
+            src: '/images/projects/project-01/spoiler01.jpg', 
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        
     ]
 }
 
